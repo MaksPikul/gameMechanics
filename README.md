@@ -1,4 +1,4 @@
 # gameMechanics
-Repo for me to store game mechanics I made because they interested me.
+Playing around in unity with C#
 
-Cs code files uploaded only, explanation of code in cs files
+Cs code files uploaded only
